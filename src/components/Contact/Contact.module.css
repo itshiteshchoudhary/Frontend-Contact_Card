@@ -1,0 +1,16 @@
+.cont h1{
+    font-weight: 800;
+    font-size: 50px;
+}
+
+.cont p{
+    font-weight: 500;
+    font-size: 18px;
+    /* background-color: aqua; */
+    max-width: 65vw;
+}
+.cont{
+    width: 100vw;
+    padding: 30px 20px;
+    min-height:fit-content;
+}
